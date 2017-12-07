@@ -5,7 +5,7 @@
              Title="バックアップ">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="ばっくあぷする!"
+            <Label Text="バックアップする!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
